@@ -38,7 +38,6 @@ A Security Operations Center is a centralized unit that monitors, detects, analy
 - Understanding of security operations
 - Knowledge of security monitoring concepts
 - Familiarity with SOC workflows
-
-## Completion Badge
-![SOC Fundamentals Completion Badge](screenshots/soc-fundamentals-badge.png)
-Successfully completed the SOC fundamentals room on TryHackMe.
+## Completion Badge 
+![badge](screenshots/soc-fundamentals-badge.png)
+Successfully completed the SOC Fundamentals room on TryHackMe.
